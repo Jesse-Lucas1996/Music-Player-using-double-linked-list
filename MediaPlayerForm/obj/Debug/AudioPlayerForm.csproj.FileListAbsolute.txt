@@ -1,0 +1,71 @@
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csprojAssemblyReference.cache
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.MediaPlayer.dll
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPDXMLib.dll
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLauncher.dll
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLib.dll
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\AxInterop.WMPLib.dll
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.ResolveComReference.cache
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.AudioPlayerForm.resources
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.Properties.Resources.resources
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.GenerateResource.cache
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.CoreCompileInputs.cache
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.exe
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.pdb
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe.config
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.pdb
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\bin\Debug\Interop.WMPLib.dll
+E:\Diploma of Software Development\Programming III\MediaPlayerForm\MediaPlayerForm\bin\Debug\AxInterop.WMPLib.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe.config
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.pdb
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\bin\Debug\Interop.WMPLib.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\bin\Debug\AxInterop.WMPLib.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csprojAssemblyReference.cache
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.MediaPlayer.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPDXMLib.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLauncher.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLib.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AxInterop.WMPLib.dll
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.ResolveComReference.cache
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.AudioPlayerForm.resources
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.Properties.Resources.resources
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.GenerateResource.cache
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.exe
+D:\Diploma of Software Development\Programming III\ACT1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.pdb
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe.config
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.pdb
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\Interop.WMPLib.dll
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\AxInterop.WMPLib.dll
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csprojAssemblyReference.cache
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.MediaPlayer.dll
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPDXMLib.dll
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLauncher.dll
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLib.dll
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AxInterop.WMPLib.dll
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.ResolveComReference.cache
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.AudioPlayerForm.resources
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.Properties.Resources.resources
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.GenerateResource.cache
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.CoreCompileInputs.cache
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.exe
+E:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.pdb
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe.config
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.exe
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\MediaPlayerForm.pdb
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\Interop.WMPLib.dll
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\bin\Debug\AxInterop.WMPLib.dll
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csprojAssemblyReference.cache
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.MediaPlayer.dll
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPDXMLib.dll
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLauncher.dll
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\Interop.WMPLib.dll
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AxInterop.WMPLib.dll
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.ResolveComReference.cache
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.AudioPlayerForm.resources
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.Properties.Resources.resources
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.GenerateResource.cache
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\AudioPlayerForm.csproj.CoreCompileInputs.cache
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.exe
+G:\Diploma of Software Development\Programming III\ACT 1\MediaPlayerForm\MediaPlayerForm\obj\Debug\MediaPlayerForm.pdb
